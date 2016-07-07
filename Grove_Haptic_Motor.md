@@ -95,5 +95,5 @@ Refer to following guides to building an appropriate IDE:
 - More about drive circuit **[DRV2605L](http://www.ti.com/product/DRV2605L)**.
 - **[Git repository](https://github.com/Seeed-Studio/Grove_Haptic_Motor)**
 
-##Is this page helpful
+##Is this page helpful?
 <iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/MFQSJ6F" frameborder="0"></iframe>
