@@ -1,14 +1,14 @@
-Breakout for Linkit Smart 7688 V2
+Grove - Haptic Motor
 ---
 
-**SKU**: [103100022](https://www.seeedstudio.com/item_detail.html?p_id=2641)
+**SKU**: [105020011](https://www.seeedstudio.com/item_detail.html?p_id=2546)
 
 **Wiki Link**: [wiki.seeed.cc](http://wiki.seeed.cc)
 
 
 ###Change Log:
 
-**2016-7-4:** create repos by loovee (loovee@seeed.cc)
+**2016-7-6:** create repos by Chaos (chao.zhang@seeed.cc)
 
 
 --------
