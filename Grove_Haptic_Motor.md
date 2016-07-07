@@ -34,6 +34,10 @@ Port   |   I2C
 
 Default I2C Address   |   0x5A
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ## Application ideas ##
 
