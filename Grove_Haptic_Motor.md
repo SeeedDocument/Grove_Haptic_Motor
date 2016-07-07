@@ -2,9 +2,8 @@
 ----------
 ## Introduction ##
 
-[Jump to Specification](#jump-here)
 
-
+<a href="#tips">Jump to Specification</a>
 
 ![Grove - Haptic Motor](http://www.seeedstudio.com/wiki/images/thumb/e/e3/Grove_Haptic_Motor.jpg/500px-Grove_Haptic_Motor.jpg)
 
@@ -19,8 +18,8 @@
 - Easy-to-use library with 123 kinds of vibrating modes.
 - Powerful driver to implanting more advanced functions.
 
-<span id="jump-here"></span>
-## Specification
+## <span id="jump-here">Specification</span>
+<a name="tips">基本的注意事项 - 有用的提示</a>
 
 | 123 | 21321 |
 | ---- /------- /
