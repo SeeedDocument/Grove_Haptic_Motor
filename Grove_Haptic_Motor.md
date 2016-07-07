@@ -2,9 +2,6 @@
 ----------
 ## Introduction ##
 
-
-<a href="#tips">Jump to Specification</a>
-
 ![Grove - Haptic Motor](http://www.seeedstudio.com/wiki/images/thumb/e/e3/Grove_Haptic_Motor.jpg/500px-Grove_Haptic_Motor.jpg)
 
 **Grove - Haptic motor** is a grove module integrated with [**DRV2605L**](http://www.ti.com/product/DRV2605L) which will give your project more feelings. This motor is specially designed for various effects, such as ramping the vibration level up and down, for wearables and other IoT devices. Right now we have developed an easy-to-use library which simulate 123 kinds in total of vibrating modes and this will make your prototyping quicker. Also, you can develop more advanced functions with driver DRV2605L which will improve actuator performance in terms of acceleration consistency, start time, and break time and is accessible through a shared I2C compatible bus or PWM input signal.
@@ -18,16 +15,17 @@
 - Easy-to-use library with 123 kinds of vibrating modes.
 - Powerful driver to implanting more advanced functions.
 
-## <a name="tips">Specification</a>
+## Specification ##
 
-| 123 | 21321 |
-| ---- /------- /
-| 123 | 21321 |
 
-|Product reversion | Release date |Support status |Notes                  |
-|------------------/--------------/---------------/-------------------|
-|Version 1.0       |November 2015 |Supported      | None                  |
-|Version 2.0       |April 2016    |Supported      | Refer to New Features |
+Operating voltage   |   3.3~5.0 V
+Ripples (at maximum power)   |   50~100 mV
+Max power   |   750 mW
+I2C speed   |   100 kHz
+Vibration effects   |   123 types
+Driver   |   DRV2605L
+Port   |   I2C
+Default I2C Address   |   0x5A
 
 
 ## Application ideas ##
@@ -84,3 +82,16 @@ Refer to following guides to building an appropriate IDE:
 !!!Tips
     You can use **[Base shield v2](http://www.seeedstudio.com/wiki/Grove_-_Base_shield_v2)** as expansion board which will make your connection of modules simple.
 !!!Note 
+    Never touch driver DRV2605L which may cause damage to it while it get power connected.
+![Grove Haptic Motor cautions](http://www.seeedstudio.com/wiki/images/b/b7/Grove_Haptic_Motor_cautions.png)
+
+1. Make sure haptic motor and main control board well connected.
+2. Load your sample code drv2605.ino under example file of decompressed file.
+1. Flash your code to your main control board by click Project>Upload(CTRL+U).
+1. After uploading, you now get haptic motor vibrate at a smooth style.
+
+## Resources ##
+
+- Schematic files in **[Eagle format](http://www.seeedstudio.com/wiki/images/9/90/Grove_Haptic_Motor_v0.9_Eagle.zip)** and **[PDF format](http://www.seeedstudio.com/wiki/images/c/cc/Grove_Haptic_Motor_v0.9_SCH.pdf)**.
+- More about drive circuit **[DRV2605L](http://www.ti.com/product/DRV2605L)**.
+- **[Git repository](https://github.com/Seeed-Studio/Grove_Haptic_Motor)**
