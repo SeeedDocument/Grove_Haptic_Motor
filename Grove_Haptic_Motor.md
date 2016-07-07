@@ -19,12 +19,19 @@
 
 
 Operating voltage   |   3.3~5.0 V
+
 Ripples (at maximum power)   |   50~100 mV
+
 Max power   |   750 mW
+
 I2C speed   |   100 kHz
+
 Vibration effects   |   123 types
+
 Driver   |   DRV2605L
+
 Port   |   I2C
+
 Default I2C Address   |   0x5A
 
 
