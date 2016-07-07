@@ -2,7 +2,7 @@
 ----------
 ## Introduction ##
 
-Take me to [Specification](#Specification)
+[Jump to Specification](#jump-here)
 
 
 
@@ -19,7 +19,8 @@ Take me to [Specification](#Specification)
 - Easy-to-use library with 123 kinds of vibrating modes.
 - Powerful driver to implanting more advanced functions.
 
-##<a name="Specification"></a>Specification
+<span id="jump-here"></span>
+## Specification
 
 | 123 | 21321 |
 | ---- /------- /
