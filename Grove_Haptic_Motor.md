@@ -18,8 +18,7 @@
 - Easy-to-use library with 123 kinds of vibrating modes.
 - Powerful driver to implanting more advanced functions.
 
-## <span id="jump-here">Specification</span>
-<a name="tips">基本的注意事项 - 有用的提示</a>
+## <a name="tips">Specification</a>
 
 | 123 | 21321 |
 | ---- /------- /
