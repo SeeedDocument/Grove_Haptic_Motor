@@ -35,7 +35,7 @@ Port   |   I2C
 
 Default I2C Address   |   0x5A
 
-Markdown | Less 
+ |  
 --- | ---
 *Still* | `renders`
 1 | 2
