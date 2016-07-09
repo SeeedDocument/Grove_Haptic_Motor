@@ -36,8 +36,7 @@
 
 ## Hardware Overview ##
 
-![Grove - Haptic Motor_front](http://www.seeedstudio.com/wiki/images/e/e3/Grove_Haptic_Motor.jpg)
-![Grove - Haptic Motor_back](http://www.seeedstudio.com/wiki/images/b/b5/Grove_Haptic_Motor_back.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove_Haptic_Motor/master/image/board.png)
 
 
 ## Getting started ##
